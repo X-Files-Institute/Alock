@@ -1,6 +1,6 @@
 package com.muqiuhan.alock.actor
 
-import akka.actor.{Actor, ActorLogging, actorRef2Scala, Props}
+import akka.actor.{Actor, ActorLogging, Props}
 import com.muqiuhan.alock.blockchain.Transaction
 
 /// The manager of the transactions of our blockchain.
