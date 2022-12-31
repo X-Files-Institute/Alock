@@ -1,5 +1,7 @@
-import scala.annotation.tailrec
+package com.muqiuhan.alock.blockchain
+
 import java.math.BigInteger
+import scala.annotation.tailrec
 import java.security.MessageDigest
 
 object ProofOfWork {
