@@ -1,5 +1,26 @@
-Blockchain implementation written in Scala
+<div align="center">
 
+<img src="./.github/logo.png" width="150px" height="175px">
+
+Alock is a blockchain implemented using Scala3 and the actor model (Akka Framework).
+
+</div>
+
+I didn't want to learn a language through heavy and obscure documentation, so this project was born - Scala Learning ProjectI didn't want to learn a language through heavy and obscure documentation, so this project was born - Scala Learning Project.
+
+__So this project has complete code comments, even a bit wordy__
+
+## Start
+This project is developed using Scala 3.2.1, Akka 2.7.0, For more detailed dependency version information, please check [build.sbt](./build.sbt)
+
+__BUILD__ with `sbt compile` and __RUN__ with `sbt run`
+
+## Acknowledgements
+- [scalachain](https://github.com/elleFlorio/scalachain) is the main source of inspiration
+-  [Metals](https://github.com/scalameta/metals-vscode) provides awesome VSCode Scala support
+-  [Scala School](https://github.com/twitter/scala_school) provides a great tutorial for getting started with Scala.
+
+## License
 MIT License
 
 Copyright (c) 2022 Muqiu Han
